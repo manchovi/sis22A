@@ -11,4 +11,9 @@ public imprimir(){
 
 }
 
+}
+public imprimir(){
+        echo "Jonathan Moises Calderon";
+}
+
 ?>
