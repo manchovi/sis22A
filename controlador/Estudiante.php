@@ -11,6 +11,10 @@ public imprimir(){
 public imprimir{
 	echo "Walter AlexanderLopez"
 }
+public imprimir(){
+        echo "Erick ayala";
+}
+
 
 
 
@@ -23,6 +27,12 @@ public imprimir(){
 	echo "estanley jose dominguez";
 }
 
+<<<<<<< HEAD
 
 echo "LES ESTOY ESPERANDO A QUE HAGAN SU APORTACIÓN TODOS."
+=======
+public imprimir (){
+echo"Rivaldo "
+}
+>>>>>>> 2fd70838922c9639aeefa801b0719a57bdf99678
 ?>
