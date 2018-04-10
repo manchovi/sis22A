@@ -12,7 +12,11 @@ public imprimir{
 	echo "Walter AlexanderLopez"
 }
 public imprimir(){
-        echo "Erick ayala";
+        echo "Erick ayala que hacen";
+}
+	
+public imprimir(){
+        echo "Hola soy fran";
 }
 
 
