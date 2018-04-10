@@ -47,12 +47,14 @@ public imprimir(){
 	echo "Alejandro Gonzalez";
 }
 
+public imprimir(){
+	echo "Mario Rosa";
+}
 <<<<<<< HEAD
 
 echo "LES ESTOY ESPERANDO A QUE HAGAN SU APORTACIÓN TODOS."
 =======
 public imprimir (){
 echo"Rivaldo "
-}
->>>>>>> 2fd70838922c9639aeefa801b0719a57bdf99678
+
 ?>
