@@ -50,6 +50,14 @@ public imprimir(){
 public imprimir(){
 	echo "Mario Rosa";
 }
+
+public mostrar(){
+	echo "Soy Francisco Chávez";
+}
+
+public mostrar(){
+	echo "Soy Victor González";
+}
 <<<<<<< HEAD
 
 echo "LES ESTOY ESPERANDO A QUE HAGAN SU APORTACIÓN TODOS."
