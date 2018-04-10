@@ -19,4 +19,8 @@ public imprimir(){
 public imprimir(){
 	echo "estanley jose dominguez";
 }
+
+public imprimir (){
+echo"Rivaldo "
+}
 ?>
