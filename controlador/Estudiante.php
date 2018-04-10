@@ -20,6 +20,13 @@ function sub($a,$b){
     return $a-$b;
 }
 
+function hello()
+{
+print("Hello!");
+}
+
+hello();
+
 }
 
 ?>
