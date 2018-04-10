@@ -10,6 +10,10 @@ public imprimir(){
 
 
 }
+public imprimir(){
+        echo "Erick ayala";
+}
+
 
 }
 public imprimir(){
