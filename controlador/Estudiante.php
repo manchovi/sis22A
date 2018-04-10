@@ -1,6 +1,6 @@
 <?php
 public class Estudiante{
-	
+
 public imprimir(){
 	echo "Manuel Gámez";
 }
@@ -11,16 +11,16 @@ public imprimir(){
 public imprimir{
 	echo "Walter AlexanderLopez"
 }
-	
+
 public imprimir{
 	echo "Hola soy walter y estoy aburrido"
 }
-	
-	
+
+
 public imprimir(){
         echo "Erick ayala";
 }
-	
+
 public imprimir(){
         echo "Hola soy fran";
 }
@@ -31,7 +31,9 @@ public imprimir(){
         echo "Francisco Salvador :v";
 }
 
-
+public otromas(){
+echo "hola";
+}
 
 
 }
@@ -42,7 +44,7 @@ public imprimir(){
 public imprimir(){
 	echo "estanley jose dominguez";
 }
-	
+
 public imprimir(){
 	echo "Alejandro Gonzalez";
 }
@@ -58,11 +60,5 @@ public mostrar(){
 public mostrar(){
 	echo "Soy Victor González";
 }
-<<<<<<< HEAD
-
-echo "LES ESTOY ESPERANDO A QUE HAGAN SU APORTACIÓN TODOS."
-=======
-public imprimir (){
-echo"Rivaldo "
 
 ?>
