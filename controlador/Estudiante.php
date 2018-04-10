@@ -9,7 +9,7 @@ public imprimir(){
 
 
 public imprimir{
-	echo "Walter AlexanderLopez"
+	echo "saul elias garcia"
 }
 
 public imprimir{
