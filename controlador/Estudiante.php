@@ -14,6 +14,10 @@ public imprimir{
 public imprimir(){
         echo "Erick ayala";
 }
+	
+public imprimir(){
+        echo "Hola soy fran";
+}
 
 
 
