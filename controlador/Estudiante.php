@@ -22,4 +22,7 @@ public imprimir(){
 public imprimir(){
 	echo "estanley jose dominguez";
 }
+
+
+echo "LES ESTOY ESPERANDO A QUE HAGAN SU APORTACIÓN TODOS."
 ?>
